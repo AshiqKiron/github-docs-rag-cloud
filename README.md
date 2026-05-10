@@ -1,12 +1,12 @@
 # 📦 GitHub Docs RAG
 
+A production-ready **Retrieval-Augmented Generation (RAG)** application that answers technical questions using repository documentation. Built with modern AI infrastructure, deployed on Hugging Face Spaces, and optimized for accuracy, citations, and zero-cost operation.
+
  **Live Demo:** https://huggingface.co/spaces/ashiquzzaman/github-docs-rag
 
  ## 📸 Preview
 ![Preview](ss.png)
 
-
-A production-ready **Retrieval-Augmented Generation (RAG)** application that answers technical questions using repository documentation. Built with modern AI infrastructure, deployed on Hugging Face Spaces, and optimized for accuracy, citations, and zero-cost operation.
 
 ---
 
